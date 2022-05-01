@@ -42,3 +42,48 @@ nav{
        border-radius: 0.2rem;
        font-weight: 600;       
 }
+
+#main{
+       background-color: rgba(210, 0,0,0.2);
+       max-width: fit-content;
+       margin: 15rem auto;
+       text-align: center;
+
+
+
+
+}
+#search_bar{
+       width: 35rem;
+       height: 2rem;
+       border-color: grey;
+       border-radius: 2rem;
+       padding:1.4rem 2.3rem;
+}
+
+#google{
+       padding: 1rem;
+       ;
+       
+
+}
+
+
+#mic{
+       height: 1rem;
+       position: relative;
+       right: 2rem;
+       top: 0.3rem;
+}
+#glass{
+       position: relative;
+       left: 2.5rem;
+       top: 0.4rem;
+}
+.twin_button{
+       padding: 0.7rem;
+       margin-top: 2rem;
+       border: none;
+       margin-right: 0.3rem;
+       margin-bottom: 1rem;
+}
